@@ -62,7 +62,7 @@ A modern, secure, and performant vehicle dealership system for FiveM servers wit
 1. **Download** and extract the script to your `resources` folder
 ```bash
 cd resources
-git clone https://github.com/yourusername/vehicle-dealership.git autohaus
+git clone https://github.com/zhoraFPS/zhora-dealership.git autohaus
 ```
 
 2. **Database** import (automatically created):
@@ -73,7 +73,7 @@ git clone https://github.com/yourusername/vehicle-dealership.git autohaus
 
 3. **Add resource** to your `server.cfg`:
 ```cfg
-ensure autohaus
+ensure zhora_dealership
 ```
 
 4. **Ensure dependencies**:
@@ -235,8 +235,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 🆘 Support
 
 - **GitHub Issues**: For bug reports and feature requests
-- **Discord**: [Your Discord Server]
-- **Forum**: [Your Forum Link]
 
 ## ⭐ Credits
 
@@ -248,12 +246,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ---
 
 **⚠️ Important Note**: This script is intended for educational purposes and private use. For commercial use, please contact the developer.
-
-## 🎯 Roadmap
-
-- [ ] TypeScript Migration
-- [ ] Advanced Vehicle Customization
-- [ ] Leasing System
-- [ ] Mobile App Integration
-- [ ] Multi-Language Support
-- [ ] Advanced Analytics Dashboard
