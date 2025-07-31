@@ -54,8 +54,7 @@ A modern, secure, and performant vehicle dealership system for FiveM servers wit
 ## 📋 Requirements
 
 - **ESX Framework** (Legacy or Final)
-- **MySQL-async** for database operations
-- **Node.js** (for UI development, optional)
+- **MySQL-async or oxmysql** for database operations
 
 ## 🚀 Installation
 
