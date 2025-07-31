@@ -74,7 +74,7 @@ ensure zhora_dealership
 3. **Ensure dependencies**:
 ```cfg
 ensure es_extended
-ensure mysql-async
+ensure mysql-async or oxmysql
 ```
 
 ## ⚙️ Configuration
