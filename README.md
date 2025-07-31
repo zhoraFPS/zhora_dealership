@@ -61,21 +61,17 @@ A modern, secure, and performant vehicle dealership system for FiveM servers wit
 1. **Download** and extract the script to your `resources` folder
 ```bash
 cd resources
-git clone https://github.com/zhoraFPS/zhora-dealership.git autohaus
+git clone https://github.com/zhoraFPS/zhora_dealership.git zhora_dealership
 ```
 
-2. **Database** import (automatically created):
-```sql
--- The autohaus_sales table will be created automatically
--- Make sure owned_vehicles table exists (ESX standard)
-```
 
-3. **Add resource** to your `server.cfg`:
+
+2. **Add resource** to your `server.cfg`:
 ```cfg
 ensure zhora_dealership
 ```
 
-4. **Ensure dependencies**:
+3. **Ensure dependencies**:
 ```cfg
 ensure es_extended
 ensure mysql-async
