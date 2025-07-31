@@ -145,25 +145,6 @@ Config.TestDrive = {
 3. **Test drive**: Click "Test Drive" for a test ride
 4. **Garage**: Purchased vehicles are automatically saved to your garage
 
-### For Admins
-```
-/autohausstats          - Show sales statistics
-/testdrives             - Show active test drives
-/endtestdrive [id]      - End a player's test drive
-/autohaus_security      - Show security status
-/reloadautohaus         - Reload configuration
-/bringcar [id] [plate]  - Teleport vehicle to player
-```
-
-## 🔧 Customization
-
-### Changing UI Design
-The React UI is located in the `web/` folder. For development:
-```bash
-cd web
-npm install
-npm run dev
-```
 
 ### Adding New Vehicles
 Add vehicles to `config.lua`:
@@ -201,12 +182,6 @@ Config.WebhookURL = "YOUR_WEBHOOK_URL"
 - Ensure `Config.TestDrive.enabled = true`
 - Check admin logs for errors
 
-## 🔄 Updates
-
-To update:
-```bash
-git pull origin main
-```
 
 **Important**: Always check `config.lua` for new options after updates.
 
