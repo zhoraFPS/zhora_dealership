@@ -6,10 +6,12 @@
 
 A modern, secure, and performant vehicle dealership system for FiveM servers with React UI and comprehensive anti-cheat system.
 
+## 🎥 Preview
+[![Demo Video](https://cdn.streamable.com/image/60uslc.jpg?token=1705123456)](https://streamable.com/60uslc)
+
+*Click the image above to watch the demo*
+
 ## ✨ Features
-
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.294%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/60uslc?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-
 
 ### 🎨 Modern User Interface
 - **React-based UI** with modern animations
